@@ -6,7 +6,7 @@
 - 💻 **Full-Stack Developer** specializing in React.js, Next.js, Node.js, and Express.js
 - 🚀 **Builder:** Shipped real-time, AI-powered applications like an AI document/video summarizer and a live chat app
 - 🔐 **Security Enthusiast:** CTF player with EHAX Cybersecurity Society, exploring tools like Nmap, Metasploit, and Burp Suite
-- 🧠 **Problem Solver:** Solved 300+ DSA problems on LeetCode & GeeksforGeeks
+- 🧠 **Problem Solver:** Solved 400+ DSA problems on LeetCode & GeeksforGeeks
 
 ## 🛠️ Tech Stack
 
