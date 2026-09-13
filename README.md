@@ -13,7 +13,7 @@
 **Languages:** Java, C++, Python, JavaScript, TypeScript  
 **Frameworks:** Next.js, Node.js, Express.js, React.js, Tailwind CSS  
 **Databases:** MySQL, MongoDB  
-**Tools/Platforms:** Git, AWS (S3, IAM, EC2), Docker, Postman, Linux  
+**Tools/Platforms:** Git, AWS (S3, IAM, EC2, EKS), Docker, Postman, Linux  
 
 ## 🚧 Featured Projects
 
