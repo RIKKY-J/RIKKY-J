@@ -30,3 +30,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rikky_j/)
 
 Feel free to drop a "Hi" or reach out for collaborations, brainstorming, or just a friendly chat!
+<div style="background-color: white; padding: 10px;">
+<img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</div>
