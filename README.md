@@ -17,9 +17,9 @@
 
 ## 🚧 Featured Projects
 
-- **[Nuclear AI](#)** — Full-stack AI summarizer for documents, websites & videos using Gemini API
-- **[Raven](#)** — Real-time chat app with Socket.io, JWT auth, and AWS S3 file sharing
-- **[BlogSphere](#)** — Full-stack blogging platform with role-based access control
+- **[Vessel](#)** — A cloud-based IDE and REPL platform that lets users write, run, and preview code directly in their browser.
+- **[Raven](#)** — Real-time chat app with Socket.io, JWT auth, and AWS S3 file sharing.
+- **[Nuclear AI](#)** — Full-stack AI summarizer for documents, websites & videos using Gemini API.
 - **[HostBox](#)** — Full-stack self-hosted deployment system. It allows users to deploy frontend sites directly from a Git repository.
 
 ## 📫 Let's Connect
