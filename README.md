@@ -8,13 +8,6 @@
 - 🔐 **Security Enthusiast:** CTF player with EHAX Cybersecurity Society, exploring tools like Nmap, Metasploit, and Burp Suite
 - 🧠 **Problem Solver:** Solved 400+ DSA problems on LeetCode & GeeksforGeeks
 
-## 🛠️ Tech Stack
-
-**Languages:** Java, C++, Python, JavaScript, TypeScript  
-**Frameworks:** Next.js, Node.js, Express.js, React.js, Tailwind CSS  
-**Databases:** MySQL, MongoDB  
-**Tools/Platforms:** Git, AWS (S3, IAM, EC2, EKS), Docker, Postman, Linux  
-
 ## 🚧 Featured Projects
 
 - **[Vessel](#)** — A cloud-based IDE and REPL platform that lets users write, run, and preview code directly in their browser.
